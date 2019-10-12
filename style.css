@@ -9,3 +9,11 @@ body {
     background-color: #eeeeee6e;
 
 }
+
+.wrapper {
+    height: 40px;
+    width: 344px;
+    align-items: center;
+    margin-top: 187px;
+    margin-left: 503px;
+}
