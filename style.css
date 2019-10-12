@@ -17,3 +17,11 @@ body {
     margin-top: 187px;
     margin-left: 503px;
 }
+
+.btn {
+    width: 120px;
+    height: 44px;
+    color: #eee;
+    background-color: #7C7470;
+
+}
